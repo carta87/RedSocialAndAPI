@@ -1,4 +1,4 @@
-package database;
+package com.platzi.mensajes_app.datababe;
 
 import java.sql.Connection;
 
@@ -24,8 +24,7 @@ public class Conexion {
 	}
 
 }
-/*
-class Main { //manera para conectar la  BD desde el metodo principal
+/*class Main { //manera para conectar la  BD desde el metodo principal
 	
 	public static void main(String[] args) {
 		Conexion conexion = new Conexion();

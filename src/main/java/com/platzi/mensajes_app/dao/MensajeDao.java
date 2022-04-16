@@ -6,8 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import com.platzi.mensajes_app.Model.Mensaje;
-
-import database.Conexion;
+import com.platzi.mensajes_app.datababe.Conexion;
 
 public class MensajeDao {
 	// Data Access Object: los metodos que nos permitiran el acceso a la base de
